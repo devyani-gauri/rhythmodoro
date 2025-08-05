@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+rhythmodoro_env/
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution/build
+build/
+dist/
+*.egg-info/
+
+# Environment/config files
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# milvus
+standalone_embed.sh
