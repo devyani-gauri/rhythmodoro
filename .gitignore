@@ -1,6 +1,7 @@
 # Python cache
 __pycache__/
 *.pyc
+.cache
 
 # Virtual environments
 rhythmodoro_env/
@@ -23,3 +24,4 @@ dist/
 # milvus
 volumes/
 standalone_embed.sh
+spotify_dataset_with_embeddings.csv
